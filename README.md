@@ -1,4 +1,4 @@
-<span style="color:blue">  ТЕСТ</span>
+<font color="red">  ТЕСТ</font>
 
 * В файлe **retention_function.ipynb** находится функция для питона для проведения когортного анализа и расчета retention.
 
